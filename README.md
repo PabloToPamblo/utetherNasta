@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![turing-logo](https://github.com/user-attachments/assets/ca947f13-b706-4242-8996-6d85b412d25c)
 ## Getting Started
 
 First, run the development server:
@@ -14,11 +14,11 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![utether](https://github.com/user-attachments/assets/adfa23cf-8491-4f14-b938-dab184e38f2d)
 
 ## Learn More
 
