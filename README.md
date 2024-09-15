@@ -1,4 +1,4 @@
-
+This is a uservice project from Turing Research Team.
 ![turing-logo](https://github.com/user-attachments/assets/ca947f13-b706-4242-8996-6d85b412d25c)
 ## Getting Started
 
